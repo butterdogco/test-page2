@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NextCarPrefab
+  - Asphalt
+  - CarVisualToSelect
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RCC
+  - BoundaryCollider
+  - Cubes02x02x02
+  - Track
+  - SceneDetails
+  - MeshShadowReceiver
+  - Particles
+  - ConesMarkers
+  - MetallicRamp
+  - Concrete
+  - CubePlatform
+  - MapName
+  - 3DPlayerName
+  - BigSceneObject
+  - Terrain
+  - PlaneShadowReceiver
+  - CarWheels
+  - CarBodyDetails
+  - CarGlass
+  - TactileRamp
+  - NotLitObject
+  - 2D UI
+  - ParkedCarWheels
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
